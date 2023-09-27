@@ -13,4 +13,4 @@ changelog:
         - feature
     - title: Bug fix 🛠
       labels:
-        - "bug""
+        - "bug"
